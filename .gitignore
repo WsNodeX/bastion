@@ -1,0 +1,17 @@
+# Build artifacts
+build/
+*.class
+junit.jar
+sources.txt
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS
+.DS_Store
+Thumbs.db
